@@ -1,4 +1,4 @@
-%% Non-Isothermal Avrami Kinetics Analysis
+%% Avrami analysis of non-isothermal crystallization kinetics
 
 Analysis of crystallization kinetics under non-isothermal conditions at five different cooling rates.
 The script:
@@ -9,7 +9,7 @@ The script:
 User input:
 - Conversion vs. temperature data for five cooling rates
 
-%% DSC Data Analysis Script
+%% Thermal and kinetic analysis
 
 This script analyzes raw data from a standard DSC experiment:
 - 1st heating scan: Thermal erasing
